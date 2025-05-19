@@ -3,10 +3,9 @@ acss_data: Data only package
 
 ## Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
 
-* From CRAN: In the future
+This is a data only package and should not be directly used. Instead, access the contents of this package through the `acss` package, which can be installed via:
 
-* Development version from Github:
 ```
-library("devtools"); install_github("acss_data",user="singmann")
+install.packages("acss")
 ```
 

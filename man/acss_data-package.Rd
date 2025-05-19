@@ -14,7 +14,7 @@ Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2013-04-02\cr
 License: GPL (>= 2)\cr
-URL: \tab \url{http://complexitycalculator.com/methodology.html}\cr
+URL: \tab \url{https://complexity-calculator.com/methodology.html}\cr
 }
 This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }
@@ -27,7 +27,7 @@ Maintainer: Henrik Singmann <singmann@gmail.com>
 \references{
 Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63-77. doi:10.1016/j.amc.2011.10.006
 
-Gauvrit, N., Zenil, H., Delahaye, J.-P., & Soler-Toscano, F. (2014). Algorithmic complexity for short binary strings applied to psychology: a primer. \emph{Behavior Research Methods}. doi:10.3758/s13428-013-0416-0
+Gauvrit, N., Zenil, H., Delahaye, J.-P., & Soler-Toscano, F. (in press). Algorithmic complexity for short binary strings applied to psychology: a primer. \emph{Behavior Research Methods}. doi:10.3758/s13428-013-0416-0
 
 Soler-Toscano, F., Zenil, H., Delahaye, J.-P., & Gauvrit, N. (2012). \emph{Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines}. arXiv:1211.1302 [cs.it].
 }
